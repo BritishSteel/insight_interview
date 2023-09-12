@@ -6,6 +6,10 @@ variable "app" {
   
 }
 
+variable "resource_group_name" {
+  
+}
+
 variable "pfx" {
   
 }
